@@ -1,0 +1,25 @@
+{
+	"events": [
+		{
+			"character": "character-1649499477.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh sign that stands out to me, guide me along the way ..."
+		},
+		{
+			"character": "character-1649509821.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hai buddy, here are your rules:\n1. Scour the land for interesting objects and piece together your clues from them\n2. Visit the portal and enter the password to teleport to the next level"
+		},
+		{
+			"event_id": "dialogic_022",
+			"transition_duration": 1
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.1",
+		"file": "timeline-1649509806.json",
+		"name": "Sign_start"
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"events": [
+		{
+			"character": "character-1649558069.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Welcome oh Player!\nHow have you fared upon your travels?"
+		},
+		{
+			"character": "character-1649499477.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well oh suspicious Doorway...\nWhat must I do to pass to the next level?"
+		},
+		{
+			"character": "character-1649558069.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Answer my simple question ~\nWho is the fake?"
+		},
+		{
+			"choice": "Alien Rune 1",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1649558069.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Unlucky Buddy, go solve a few CTF's or something!"
+		},
+		{
+			"event_id": "dialogic_022",
+			"transition_duration": 1
+		},
+		{
+			"choice": "Alien Rune 2",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1649558069.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Perhaps you need to revisit the houdini experiment?"
+		},
+		{
+			"event_id": "dialogic_022",
+			"transition_duration": 1
+		},
+		{
+			"choice": "Alien Rune 3",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1649558069.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well done!\nHoudini would be proud!"
+		},
+		{
+			"change_scene": "res://scenes/Level 3.tscn",
+			"event_id": "dialogic_041"
+		},
+		{
+			"event_id": "dialogic_022",
+			"transition_duration": 1
+		},
+		{
+			"event_id": "dialogic_013"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.1",
+		"file": "timeline-1649560232.json",
+		"name": "Doorway"
+	}
+}

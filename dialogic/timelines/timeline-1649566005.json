@@ -1,0 +1,19 @@
+{
+	"events": [
+		{
+			"character": "character-1649565967.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "In this scene there exists three sets of secret spies...\nHowever one set has more spies than the rest."
+		},
+		{
+			"event_id": "dialogic_022",
+			"transition_duration": 1
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.1",
+		"file": "timeline-1649566005.json",
+		"name": "Marker"
+	}
+}

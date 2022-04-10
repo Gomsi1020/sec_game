@@ -1,0 +1,31 @@
+{
+	"events": [
+		{
+			"character": "character-1649558006.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Security can sometimes involve using deductive reasoning to figure out who is lying...\nHumans are often the weakest part of any security system and it is therefore important to  secure yourself against them"
+		},
+		{
+			"character": "character-1649499477.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Can you help give me some clues as to who is lying?"
+		},
+		{
+			"character": "character-1649558006.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Each rune will lie once and tell the truth once respectivly!\nOnly one will be the fake rune"
+		},
+		{
+			"event_id": "dialogic_022",
+			"transition_duration": 1
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.1",
+		"file": "timeline-1649560214.json",
+		"name": "Guidance2"
+	}
+}

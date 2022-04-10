@@ -1,0 +1,45 @@
+{
+	"events": [
+		{
+			"character": "character-1649499477.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh Statue of remarkable similarity to a certain Zelda Statue.."
+		},
+		{
+			"character": "character-1649499508.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I see you have met my cousin from which I bear no inspiration whatsoever!"
+		},
+		{
+			"character": "character-1649499477.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Bequeth unto me a clue, grant me a piece of the code!"
+		},
+		{
+			"character": "character-1649499477.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Through your studies, one has guided you...\nWith Beige chino pants and a propensity to move students...\nHis name is the first clue you seek"
+		},
+		{
+			"definition": "1649512256-339",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"event_id": "dialogic_022",
+			"transition_duration": 2
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.1",
+		"file": "timeline-1649499575.json",
+		"name": "Statue_clue"
+	}
+}
